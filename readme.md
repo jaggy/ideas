@@ -13,6 +13,7 @@ I decided to open source some of my ideas, wether they are stupid or not, just b
 - [Synchronized Video Players](#synchronized-video-players)
 - [Waze for Commuters](#waze-for-commuters)
 - [Humanize](#humanize)
+- [NFC Cabbie Information](#nfc-cabbie-information)
 
 
 ## Satire/Hoax Flagger Browser Extension
@@ -26,8 +27,8 @@ I wanted to make this to prevent the spread of misinformation or outdated inform
 I want an app where you can register volume button pattern/clicks and make your phone do certain things.
 
 For example:
-- up-up-down-down: Turn on cellular, Message <mom>, <dad> "<location> I'm worried this road I'm taking."
-- up-down-up-down: Turn on cellular, Message <mom>, <dad>, <person-a>, "<location> please send help"
+- `up-up-down-down`: Turn on cellular, Message <mom>, <dad> "<location> I'm worried this road I'm taking."
+- `up-down-up-down`: Turn on cellular, Message <mom>, <dad>, <person-a>, "<location> please send help"
 
 I'm pretty sure this can't be done with IOS devices (unless jailbroken).
 
@@ -64,3 +65,12 @@ It puts our lives into perspective and it kinda shows that it's not too late to 
 
 I'm not really sure where to fetch all those kinds of information.
 
+## NFC Cabbie Information
+
+For security purposes, I really want all cabs to contain the driver's information.
+
+So when a passenger rides the cab, they tap their phone on the sticker (or something like that) then it sends the information online, or to selected people.
+
+The boundary, the plate number, and the driver's info.
+
+Although, there are limitations since here in the Philippines, drivers tend to change cabs, so I'm not really sure how that'll work.
