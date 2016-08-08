@@ -8,21 +8,18 @@ I decided to open source some of my ideas, wether they are stupid or not, just b
 
 ## Table of Contents
 
-### Web
-- [Satire/Hoax Flagger Browser Extension](#satirehoax-flagger-browser-extension)
-- [Humanize](#humanize)
-
-### Scripts
-- [Synchronized Video Players](#synchronized-video-players)
-
-### Mobile
-- [Mobile SOS](#mobile-sos)
-- [Waze for Commuters](#waze-for-commuters)
-- [NFC Cabbie Information](#nfc-cabbie-information)
-
-### Hardware
-- [Wifi Enabled Blood Pressure Machine](#wifi-enabled-blood-pressure-machine)
-- [Modular Earphones](#modular-earphones)
+- [Web](#web)
+    + [Satire/Hoax Flagger Browser Extension](#satirehoax-flagger-browser-extension)
+    + [Humanize](#humanize)
+- [Scripts](#scripts)
+    + [Synchronized Video Players](#synchronized-video-players)
+- [Mobile](#mobile)
+    + [Mobile SOS](#mobile-sos)
+    + [Waze for Commuters](#waze-for-commuters)
+    + [NFC Cabbie Information](#nfc-cabbie-information)
+- [Hardware](#hardware)
+    + [Wifi Enabled Blood Pressure Machine](#wifi-enabled-blood-pressure-machine)
+    + [Modular Earphones](#modular-earphones)
 
 
 ## Web
