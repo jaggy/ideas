@@ -63,8 +63,8 @@ mplayerx, quicktime, or vlc.
 I want an app where you can register volume button pattern/clicks and make your phone do certain things.
 
 For example:
-- `up-up-down-down`: Turn on cellular, Message <mom>, <dad> "<location> I'm worried this road I'm taking."
-- `up-down-up-down`: Turn on cellular, Message <mom>, <dad>, <person-a>, "<location> please send help"
+- `up-up-down-down`: Turn on cellular, Message [mom], [dad] "[location] I'm worried this road I'm taking."
+- `up-down-up-down`: Turn on cellular, Message [mom], [dad], [person-a], "[location] please send help"
 
 I'm pretty sure this can't be done with IOS devices (unless jailbroken).
 
