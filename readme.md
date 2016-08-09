@@ -55,6 +55,10 @@ I want either a, video player that's synced, or to be much more feasible, just r
 Maybe we can just run a small node listener waiting for the data from the server and runs an applescript to play, pause, or change the time, for o
 mplayerx, quicktime, or vlc.
 
+**UPDATE**
+
+I made a small [PHP server](https://github.com/jaggy/theatre-server) and [Electron app](https://github.com/jaggy/theatre-client) as proof of concept for this to work. Only supports MPlayerX for now.
+
 ## Mobile
 
 
